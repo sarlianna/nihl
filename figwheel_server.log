@@ -1,0 +1,83 @@
+[0mCompiling "resources/public/js/nihl.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/nihl.js" in 0.106 seconds.[0m
+[0mCompiling "resources/public/js/nihl.js" from ["src"]...
+WARNING: Use of undeclared Var nihl.core/player-hight at line 56 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Use of undeclared Var nihl.core/update-ui at line 73 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Use of undeclared Var nihl.core/game-over? at line 72 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Wrong number of args (1) passed to nihl.core/collision? at line 68 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Wrong number of args (1) passed to nihl.core/update-enemies at line 68 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Use of undeclared Var nihl.core/floor at line 80 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Use of undeclared Var nihl.core/x-vel at line 84 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Wrong number of args (2) passed to nihl.core/reset-state at line 101 /usr/src/nihl/src/nihl/core.cljs
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/nihl/core.js
+[32mSuccessfully compiled "resources/public/js/nihl.js" in 0.493 seconds.[0m
+[0mCompiling "resources/public/js/nihl.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/nihl.js" in 0.136 seconds.[0m
+[0mCompiling "resources/public/js/nihl.js" from ["src"]...
+WARNING: Use of undeclared Var nihl.core/update-ui at line 73 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Use of undeclared Var nihl.core/game-over? at line 72 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Wrong number of args (1) passed to nihl.core/collision? at line 68 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Wrong number of args (1) passed to nihl.core/update-enemies at line 68 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Use of undeclared Var nihl.core/floor at line 80 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Use of undeclared Var nihl.core/x-vel at line 84 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Wrong number of args (2) passed to nihl.core/reset-state at line 101 /usr/src/nihl/src/nihl/core.cljs
+notifying browser that file changed:  out/nihl/core.js
+[32mSuccessfully compiled "resources/public/js/nihl.js" in 0.41 seconds.[0m
+[0mCompiling "resources/public/js/nihl.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/nihl.js" in 0.132 seconds.[0m
+[0mCompiling "resources/public/js/nihl.js" from ["src"]...
+WARNING: Use of undeclared Var nihl.core/update-ui at line 75 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Use of undeclared Var nihl.core/game-over? at line 74 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Wrong number of args (1) passed to nihl.core/collision? at line 70 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Wrong number of args (1) passed to nihl.core/update-enemies at line 70 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Use of undeclared Var nihl.core/x-vel at line 86 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Wrong number of args (2) passed to nihl.core/reset-state at line 103 /usr/src/nihl/src/nihl/core.cljs
+notifying browser that file changed:  out/nihl/core.js
+[32mSuccessfully compiled "resources/public/js/nihl.js" in 0.315 seconds.[0m
+[0mCompiling "resources/public/js/nihl.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/nihl.js" in 0.081 seconds.[0m
+[0mCompiling "resources/public/js/nihl.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to nihl.core/update-ui at line 72 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Use of undeclared Var nihl.core/game-over? at line 76 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Wrong number of args (1) passed to nihl.core/collision? at line 72 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Wrong number of args (1) passed to nihl.core/update-enemies at line 72 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Use of undeclared Var nihl.core/x-vel at line 88 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Wrong number of args (2) passed to nihl.core/reset-state at line 105 /usr/src/nihl/src/nihl/core.cljs
+notifying browser that file changed:  out/nihl/core.js
+[32mSuccessfully compiled "resources/public/js/nihl.js" in 0.326 seconds.[0m
+[0mCompiling "resources/public/js/nihl.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/nihl.js" in 0.083 seconds.[0m
+[0mCompiling "resources/public/js/nihl.js" from ["src"]...
+WARNING: Use of undeclared Var nihl.core/game-over? at line 76 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Use of undeclared Var nihl.core/x-vel at line 88 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Wrong number of args (2) passed to nihl.core/reset-state at line 105 /usr/src/nihl/src/nihl/core.cljs
+notifying browser that file changed:  out/nihl/core.js
+[32mSuccessfully compiled "resources/public/js/nihl.js" in 0.28 seconds.[0m
+[0mCompiling "resources/public/js/nihl.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/nihl.js" in 0.094 seconds.[0m
+[0mCompiling "resources/public/js/nihl.js" from ["src"]...
+WARNING: Use of undeclared Var nihl.core/x-vel at line 90 /usr/src/nihl/src/nihl/core.cljs
+WARNING: Wrong number of args (2) passed to nihl.core/reset-state at line 107 /usr/src/nihl/src/nihl/core.cljs
+notifying browser that file changed:  out/nihl/core.js
+[32mSuccessfully compiled "resources/public/js/nihl.js" in 0.316 seconds.[0m
+[0mCompiling "resources/public/js/nihl.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/nihl.js" in 0.075 seconds.[0m
+[0mCompiling "resources/public/js/nihl.js" from ["src"]...
+WARNING: Use of undeclared Var nihl.core/x-vel at line 90 /usr/src/nihl/src/nihl/core.cljs
+notifying browser that file changed:  out/nihl/core.js
+[32mSuccessfully compiled "resources/public/js/nihl.js" in 0.242 seconds.[0m
+[0mCompiling "resources/public/js/nihl.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/nihl.js" in 0.076 seconds.[0m
+[0mCompiling "resources/public/js/nihl.js" from ["src"]...
+notifying browser that file changed:  out/nihl/core.js
+[32mSuccessfully compiled "resources/public/js/nihl.js" in 0.249 seconds.[0m
+[0mCompiling "resources/public/js/nihl.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/nihl.js" in 0.102 seconds.[0m
+[0mCompiling "resources/public/js/nihl.js" from ["src"]...
+notifying browser that file changed:  out/nihl/core.js
+[32mSuccessfully compiled "resources/public/js/nihl.js" in 0.229 seconds.[0m
+[0mCompiling "resources/public/js/nihl.js" from ["src"]...
+notifying browser that file changed:  out/nihl/core.js
+[32mSuccessfully compiled "resources/public/js/nihl.js" in 0.116 seconds.[0m
